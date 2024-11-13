@@ -1,4 +1,4 @@
-# Internship-Projects in the works
+# Other_Projects in the works
 *Slowly building up my portfolio through projects I work on through internship projects or self-initiated projects.
 
 | Project number | Title | Description |
